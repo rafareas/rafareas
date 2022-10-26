@@ -5,7 +5,7 @@
   
   
 <h2>
- "O sucesso não vai simplesmente te encontrar. É preciso sair da zoda de conforto e ir atrás dele você mesmo."
+ "O sucesso não vai simplesmente te encontrar. É preciso sair da zona de conforto e ir atrás dele você mesmo."
  </h2>
 
 <div>

@@ -1,8 +1,6 @@
 ### Olá, sou o Rafael Arêas! Bem vindo aos meus projetos😉
 
-- 🔭 Atualmente estudando na Universidade do Minho
-- 🌱 Estudando ReactJS, Typescript e python
-  
+- 🔭 Universidade do Minho -> Engenharia Informática
   
 <h2>
  "O sucesso não vai simplesmente te encontrar. É preciso sair da zona de conforto e ir atrás dele você mesmo."
